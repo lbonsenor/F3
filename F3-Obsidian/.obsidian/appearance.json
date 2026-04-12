@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "textFontFamily": "Cambria",
+  "enabledCssSnippets": [
+    "notation-colour-blocks",
+    "column",
+    "img"
+  ]
+}
