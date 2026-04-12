@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parcialitos/1er Parcialito/EJ2-2025-Q2-Q.md",
+                "file": "Parcialitos/1er Parcialito/EJ1-2025-Q2-Q.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EJ2-2025-Q2-Q"
+              "title": "EJ1-2025-Q2-Q"
             }
           }
         ]
@@ -170,9 +170,11 @@
   },
   "active": "2f86c6cd4eb16e3e",
   "lastOpenFiles": [
+    "Terminos/Electrostática/Conductores y Aislantes.md",
+    "Parcialitos/1er Parcialito/EJ2-2025-Q2-Q.md",
+    "Untitled.base",
     "Parcialitos/1er Parcialito/EJ1-2025-Q2-Q.md",
     "Clases/Clase 1. Electrostática.md",
-    "Parcialitos/1er Parcialito/EJ2-2025-Q2-Q.md",
     "Parcialitos/1er Parcialito/EJ1-2025-Q2-S.md",
     "Parcialitos/Images/EJ1-2025-Q2-S - Planteo.png",
     "Clases/Clase 3. Ley de Gauss.md",
@@ -208,13 +210,10 @@
     "Guías/Guía 1/1.10 - Solución.md",
     "Guías/Guía 2",
     "Terminos/Campo Eléctrico/Campo Eléctrico.md",
-    "Terminos/Electrostática/Conductores y Aislantes.md",
-    "Terminos/Campo Eléctrico/Flujo Eléctrico.md",
     "Terminos/Potencial Eléctrico",
     "Terminos/Campo Eléctrico",
     "Terminos/Electrostática",
     "Terminos",
-    "Clases",
-    "Guías/Images"
+    "Clases"
   ]
 }
